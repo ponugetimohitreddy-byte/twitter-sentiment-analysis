@@ -20,6 +20,7 @@ twitter-sentiment-analysis/
 │
 ├── twitter_sentiment_tracker.ipynb   # Main Jupyter Notebook containing the analysis pipeline
 └── README.md                         # Project documentation (this file)
+```
 🛠️ Prerequisites
 To run this notebook locally, ensure you have the following installed on your machine:
 
